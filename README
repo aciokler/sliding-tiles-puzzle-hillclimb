@@ -1,0 +1,9 @@
+This is an example of the search algorithm Hill Climb.
+It is applied to the problem of sliding tiles puzzle.
+
+It uses hill climb to find a path that will take the tiles from an specified initial state to a final specified state.
+
+package: algorithms.hillcimsearch contains the generic implementation of the hill climb algorithm
+package: slidingtiles contains the application of the hillclimb algorithm to the sliding tiles puzzle.
+
+to run it: run main class SlidingTiles.java
